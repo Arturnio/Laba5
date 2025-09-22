@@ -1,0 +1,15 @@
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\bin\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.exe
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\bin\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.deps.json
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\bin\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.runtimeconfig.json
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\bin\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.dll
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\bin\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.pdb
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.AssemblyInfoInputs.cache
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.AssemblyInfo.cs
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.csproj.CoreCompileInputs.cache
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.sourcelink.json
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.dll
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\obj\Debug\net8.0\refint\Laba5_Vahrusheva_Kuznecov_ISP-233.dll
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.pdb
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\obj\Debug\net8.0\Laba5_Vahrusheva_Kuznecov_ISP-233.genruntimeconfig.cache
+D:\VisualSharaga\Instrumentalsredstva\Laba5_sharp_leo\obj\Debug\net8.0\ref\Laba5_Vahrusheva_Kuznecov_ISP-233.dll
