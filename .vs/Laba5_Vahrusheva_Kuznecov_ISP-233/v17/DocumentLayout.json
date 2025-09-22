@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\Laba5_Vahrusheva_Kuznecov_ISP-233\\",
+  "WorkspaceRootPath": "D:\\VisualSharaga\\Instrumentalsredstva\\Laba5_sharp_leo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6F2A82F-7608-4131-8A05-C0E21F144F4B}|Laba5_Vahrusheva_Kuznecov_ISP-233.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\laba5_vahrusheva_kuznecov_isp-233\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6F2A82F-7608-4131-8A05-C0E21F144F4B}|Laba5_Vahrusheva_Kuznecov_ISP-233.csproj|d:\\visualsharaga\\instrumentalsredstva\\laba5_sharp_leo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6F2A82F-7608-4131-8A05-C0E21F144F4B}|Laba5_Vahrusheva_Kuznecov_ISP-233.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\Laba5_Vahrusheva_Kuznecov_ISP-233\\Program.cs",
+              "DocumentMoniker": "D:\\VisualSharaga\\Instrumentalsredstva\\Laba5_sharp_leo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\Laba5_Vahrusheva_Kuznecov_ISP-233\\Program.cs",
+              "ToolTip": "D:\\VisualSharaga\\Instrumentalsredstva\\Laba5_sharp_leo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAArwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T10:54:16.329Z",
               "EditorCaption": ""
